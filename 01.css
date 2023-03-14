@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.cabecalho{
+    width: 80vw;
+    height: 120px;
+    background-color: rgb(188, 142, 214);
+    margin:0 auto;
+}
+
+.corpo{
+    width: 80vw;
+    height: calc(100vw - 240px);
+    background-color: rgb(139, 91, 183);
+    margin: 0 auto;
+}
+
+.menu{
+    width: 100px;
+    height: 100%;
+    background-color: rgb(54, 10, 95);
+    display: inline-block;
+}
+
+.conteudo{
+    width: calc(80vw - 105px);
+    height: 100%;
+    background-color: rgb(86, 33, 136);
+    display: inline-block;
+}
+
+.rodape{
+    width: 80vw;
+    height: 120px;
+    background-color: rgb(178, 116, 236);
+    margin: 0 auto;
+}
